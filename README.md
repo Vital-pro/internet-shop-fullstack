@@ -1,1 +1,1 @@
-# Fullstack-internet-shop with description
+# Template fullstack-internet-shop with description
